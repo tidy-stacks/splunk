@@ -7,3 +7,6 @@ The bootcamp spent 3 weeks hammering home all the potential benefits a tool like
 Included here are the review questions with the file entitled Splunk Report and the silde deck used to present the conclusions from the report entitled Splunk Conclusion that outlines some mitigation strategies that can be impplemented from the data. 
 
 
+![splunk](https://user-images.githubusercontent.com/99679318/191784964-1e960857-c945-43dd-ab7d-1eb550b6cb25.png)
+
+
